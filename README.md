@@ -1,23 +1,26 @@
-# Hi! I'm Tobi, IT Professional // Programmer
+# Hi! I'm Tobi, IT Professional // DevOps Guy
+
+> *with great power, comes great responsibility...*
 
 - IT Professional since 2007
   - Windows Server & Clients
   - Infrastructure (Server, Networking, SAN)
-  - Private Cloud (VMware + Veeam)
+  - Private Cloud (Hyper-V + VMware + Veeam)
   - Active Directory & Azure Active Directory
+  - Microsoft 365 (AADsync, Exchange, Teams, Sharepoint)
   - Exchange (since 2010)
-  - Communication and Collaboration (Teams & Skype)
-- Programming Websites and Webapps
-- tinkering on Websites since 2004
+- Programming Websites and Webapps (Laravel, PHP, Tailwind, Bootstrap, Vue, jQuery, you know them all)
+- tinkering on the Internet since 2004
 
-## 😄 about
+## 😎 about
 - Franconian at heart
-- Born in Bamberg
+- From Bamberg
 - Living in Nuremberg
-- loves 🍻
-
+- likes to travel
+- 🍻 + ☕
+ 
 ## 📫 how to reach me:
-https://tobias.duethorn.cc
+- https://tobias.duethorn.cc
 
 
 
